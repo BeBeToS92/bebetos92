@@ -1,12 +1,12 @@
 
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/talonealberto/">
+<a href="https://www.linkedin.com/in/talonealberto/" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   style="margin-right:11px;" />
 </a>
 
-<a href="https://www.instagram.com/bebetos92/">
+<a href="https://www.instagram.com/bebetos92/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
